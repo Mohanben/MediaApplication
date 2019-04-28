@@ -1,0 +1,11 @@
+
+lsquid:S11920"PUse already-defined constant 'CHANNEL_ID' instead of duplicating its value here.(ĞÄÛÊÿÿÿÿÿ
+Gsquid:S1068!"0Remove this unused "CHANNEL_NAME" private field.(­’µÎ
+Isquid:S1068""2Remove this unused "PACKAGAGE_NAME" private field.(ò”°„
+Osquid:S1068&"8Remove this unused "mMediaSessionManager" private field.(áí¤º
+wsquid:S3923U"[Remove this conditional structure or edit its code blocks so that they're not all the same.(²ª°ìşÿÿÿÿ
+zsquid:S1450&"cRemove the "mMediaSessionManager" field and declare it as a local variable in the relevant methods.(áí¤º
+Isquid:S1135V"2Complete the task associated to this TODO comment.(íº»
+Isquid:S1135X"2Complete the task associated to this TODO comment.(íº»
+?squid:S11858"(Remove this method to simply inherit it.(çî¤º
+Dsquid:S1185_"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
